@@ -1,7 +1,7 @@
 # Simple Font-size Controls
 An Obsidian plugin which adds control over the font-size of the (Markdown/Live/Preview) Editor. What does it do? Well, you can increase/decrease the font-size from the editor (without changing the font-size of the whole Obsidian application).
 
-From time to time I want to give my eyes some rest by increasing the font-size. But the standard controls increase the UI elements their size, which I find quite frustrating. I've set the hotkeys to `CMD=` and `CMD-` and it works like a charm.
+From time to time I want to give my eyes some rest by increasing the font-size. But the standard controls increase the UI elements their size, which I find quite frustrating. I've set the hotkeys to `CMD/CTRL` + `=` and `CMD/CTRL` + `-` and it works like a charm.
 
 ## Installation
 Install **Simple font-size controls** from the Community Plugins in Obsidian. When installed (and enabled) you'll be able to setup your hotkeys and change the base font-size settings.
@@ -17,6 +17,8 @@ Install **Simple font-size controls** from the Community Plugins in Obsidian. Wh
 7. Enable the **Simple font-size controls** plugin.
 8. If you do find any bugs, please report them [here](https://github.com/Maxymillion/simple-font-size-controls/issues).
 
+## Integration
+I've been using this plugin in combination with my [Zen (focus mode) plugin](https://github.com/Maxymillion/zen). It's amazing for my easily distracted brain.
+
 ## Credits
 Based on the [Asana Sync](https://github.com/Maxymillion/asana-sync-plugin) codebase.
-
