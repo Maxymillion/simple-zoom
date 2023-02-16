@@ -1,7 +1,7 @@
 {
-	"name": "simple-font-size-controls",
+	"name": "simple-zoom",
 	"version": "0.5.1",
-	"description": "An Obsidian plugin which adds control over the fontsize of the (Markdown/Live/Preview) Editor",
+	"description": "An Obsidian plugin which adds more zoom control",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

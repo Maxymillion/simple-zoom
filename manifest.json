@@ -1,10 +1,10 @@
 {
-	"id": "simple-font-size-controls",
-	"name": "Simple font-size controls",
+	"id": "simple-zoom",
+	"name": "Simple Zoom",
 	"version": "0.5.1",
 	"minAppVersion": "1.1.0",
 	"donation": "https://www.buymeacoffee.com/maxymillion",
-	"description": "An Obsidian plugin which adds control over the fontsize of the (Markdown/Live/Preview) Editor",
+	"description": "An Obsidian plugin which adds more zoom control",
 	"author": "Maxymillion",
 	"authorUrl": "https://github.com/Maxymillion",
 	"isDesktopOnly": true
