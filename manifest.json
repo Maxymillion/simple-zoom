@@ -1,7 +1,7 @@
 {
 	"id": "simple-zoom",
 	"name": "Simple Zoom",
-	"version": "0.5.1",
+	"version": "0.5.2",
 	"minAppVersion": "1.1.0",
 	"donation": "https://www.buymeacoffee.com/maxymillion",
 	"description": "An Obsidian plugin which adds more zoom control",

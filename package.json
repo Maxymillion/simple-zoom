@@ -1,6 +1,6 @@
 {
 	"name": "simple-zoom",
-	"version": "0.5.1",
+	"version": "0.5.2",
 	"description": "An Obsidian plugin which adds more zoom control",
 	"main": "main.js",
 	"scripts": {
