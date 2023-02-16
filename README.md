@@ -1,6 +1,6 @@
 # Simple Zoom
 
-[![GitHub release (latest)](https://img.shields.io/github/v/release/Maxymillion/simple-font-size-controls?style=flat-square&sort=semver)](https://github.com/Maxymillion/simple-font-size-controls/releases/latest)
+[![GitHub release (latest)](https://img.shields.io/github/v/release/Maxymillion/simple-zoom?style=flat-square&sort=semver)](https://github.com/Maxymillion/simple-zoom/releases/latest)
 
 An Obsidian plugin which adds more zoom control. What does it do? Well, you can increase/decrease the Editor's font-size (without changing the font-size of the whole Obsidian application/UI).
 
